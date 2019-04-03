@@ -1,3 +1,3 @@
 # lom
 
-For all your random lom character needs
+For all your random starwars character needs

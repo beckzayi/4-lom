@@ -1,9 +1,7 @@
-'use strict';
-
-var uniqueRandomArray = require('unique-random-array');
-var starWarsNames = require('./starwars-names.json');
+const uniqueRandomArray = require('unique-random-array');
+const lomNames = require('./lom-names.json');
 
 module.exports = {
-  all: starWarsNames,
-  random: uniqueRandomArray(starWarsNames)
+  all: lomNames,
+  random: uniqueRandomArray(lomNames)
 };

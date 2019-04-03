@@ -1,3 +1,3 @@
-# starwars-names
+# lom
 
-For all your random Star Wars character needs
+For all your random lom character needs
